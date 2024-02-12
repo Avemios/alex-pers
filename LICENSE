@@ -2,12 +2,13 @@ MIT License
 
 Copyright (c) 2024 Alexandru Hamza-Lup
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Licensee shall not, directly or indirectly:
+
+a. Modify, adapt, translate, reverse engineer, decompile, disassemble, or otherwise attempt to derive source code from the Code;
+b. Sell, sublicense, distribute, or otherwise transfer the Code to any third party;
+c. Remove or alter any proprietary notices, labels, or marks from the Code;
+d. Use the Code in any manner that violates applicable laws or regulations;
+e. Use the Code in any manner that competes with or undermines the business interests of Licensor.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
